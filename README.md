@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-I like technology and follow the advancements in technology. 
-  
+I like technology and follow the advancements in technology.</br>
 I also write technical blogs frequently to cover topics which I feel will help readers
 </p>
 
