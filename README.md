@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aditya here 👋
 
 <!--
 **aditya-sridhar/aditya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align = "center">
+I like technology and follow the advancements in technology. I also write technical blogs frequently to cover topics which I feel will help readers.
+</p>
+
+
