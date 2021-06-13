@@ -30,5 +30,9 @@ Feel free to read my technical blogs in the following websites</br>
 </p>
 
 <p align="center">
+  You can find the Udemy courses authored by me <a href="https://www.udemy.com/user/adityas7/">here</a>
+</p >
+
+<p align="center">
   Feel free to connect with me on <a href ="https://www.linkedin.com/in/aditya1811/">LinkedIn</a> or Follow me on <a href="https://twitter.com/adityasridhar18">Twitter</a>
 </p >
